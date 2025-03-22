@@ -30,7 +30,6 @@ NewsApp is a fully functional iOS application that fetches the latest news artic
 - **Networking**: URLSession
 - **Local Database**: Core Data
 - **WebView**: WKWebView (WebKit)
-- **Date Handling**: DateFormatter
 
 ---
 
@@ -46,7 +45,7 @@ NewsApp is a fully functional iOS application that fetches the latest news artic
 <br/>
 
 ![Screenshot 2025-03-23 at 1 25 48 AM](https://github.com/user-attachments/assets/1a331d29-bc07-4ee9-903d-67e04898103e)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Screenshot 2025-03-23 at 1 26 58 AM](https://github.com/user-attachments/assets/4650b3a8-c203-4c4b-adc6-203c9af2b05d)
 
 <br/>
@@ -55,6 +54,6 @@ NewsApp is a fully functional iOS application that fetches the latest news artic
 <br/>
 
 ![Screenshot 2025-03-23 at 1 28 01 AM](https://github.com/user-attachments/assets/ab94818f-825a-494b-be97-24548230324e)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Screenshot 2025-03-23 at 1 27 35 AM](https://github.com/user-attachments/assets/93cc6d91-cb3e-4d5b-8e8b-646c38f6aea7)
 
