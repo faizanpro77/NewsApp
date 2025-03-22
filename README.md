@@ -16,6 +16,7 @@ NewsApp is a fully functional iOS application that fetches the latest news artic
 
 3. **Local Database**:
    - Implements a local database using **Core Data** to save articles.
+   - **unique articles** are stored in Core Data; duplicate articles are prohibited.
    - Includes a "Saved Articles" section where users can view and delete their saved articles.
 
 4. **User Interface**:
