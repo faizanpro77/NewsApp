@@ -20,10 +20,6 @@ class NewsViewModel: ObservableObject {
 
     func fetchNews(completion: @escaping (Bool) -> Void) {
         
-        let dateFormatter = DateFormatter()
-        dateFormatter.dateFormat = "yyyy-MM-dd"
-        var currentDate = dateFormatter.string(from: Date())
-        
         guard let url = URL(string: "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=\(apiKey)") else {
             print("Invalid URL")
             completion(false)
