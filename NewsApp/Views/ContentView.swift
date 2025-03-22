@@ -12,7 +12,7 @@ struct ContentView: View {
     @StateObject private var viewModel = NewsViewModel()
     @State private var showSavedArticles = false
     @State private var selectedArticle: Article? = nil
-    @State private var isLoading = false  state
+    @State private var isLoading = false  
 
     var body: some View {
         NavigationStack {

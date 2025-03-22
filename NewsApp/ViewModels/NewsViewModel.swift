@@ -19,7 +19,12 @@ class NewsViewModel: ObservableObject {
     private let context = PersistenceController.shared.container.viewContext
 
     func fetchNews(completion: @escaping (Bool) -> Void) {
-        guard let url = URL(string: "https://newsapi.org/v2/everything?q=tesla&from=2025-02-22&sortBy=publishedAt&apiKey=\(apiKey)") else {
+        
+        let dateFormatter = DateFormatter()
+        dateFormatter.dateFormat = "yyyy-MM-dd"
+        var currentDate = dateFormatter.string(from: Date())
+        
+        guard let url = URL(string: "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=\(apiKey)") else {
             print("Invalid URL")
             completion(false)
             return
