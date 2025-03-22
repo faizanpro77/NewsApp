@@ -22,9 +22,6 @@ NewsApp is a fully functional iOS application that fetches the latest news artic
    - Built using **SwiftUI** with modern UI components like `List`, `NavigationStack`, and `AsyncImage`.
    - Follows a clean and engaging design.
 
-5. **Dynamic URL**:
-   - The API URL dynamically includes the current date to fetch the latest news articles.
-
 ---
 
 ## Tech Stack
