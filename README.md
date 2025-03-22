@@ -28,7 +28,7 @@ NewsApp is a fully functional iOS application that fetches the latest news artic
 ---
 
 ## Tech Stack
-
+- **Design Pattern**: MVVM
 - **UI Framework**: SwiftUI
 - **Networking**: URLSession
 - **Local Database**: Core Data
